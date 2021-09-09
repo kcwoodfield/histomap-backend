@@ -1,3 +1,3 @@
-# Strapi application
+# Histomap backend
 
-A quick description of your strapi application
+A Strapi api
